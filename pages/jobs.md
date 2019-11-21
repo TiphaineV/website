@@ -38,7 +38,7 @@ Multilayer stream graphs<br>
 Co-supervised with Benjamin Renoust and Jean-François Baffier
 
 **Tu Nguyen**<br>
-*, undergraduate, 06/2019 - 09/2019*<br>
+*Hanoi University of Technology, undergraduate, 06/2019 - 09/2019*<br>
 Clustering of interaction data<br>
 Co-supervised with Satoshi Sekine
 
