@@ -19,8 +19,8 @@ tags:
 For any inquiries, please contact me! I usually reply within a few business days.
 
 | - | :- |
-| <i class="fa fa-paper-plane">  | first.last@riken.jp | 
+| <i class="fa fa-paper-plane">  | last@lipn.univ-paris13.fr | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | 〒103-0027 Nihonbashi 1-chome Mitsui Building, 15th floor, 1-4-1 Nihonbashi,Chuo-ku, Tokyo, Japan   | 
+| <i class="fa fa-envelope"></i> | LIPN, office B313, 99 avenue Jean-Baptiste Clément, 93430 Villetaneuse, France | 
 | - | :- |
 

@@ -21,15 +21,31 @@ sitemap:
 If you are interested in doing an internship with me, please contact me. I am happy to work with new people, from undergraduate students to PhD candidates.
 You can mention one of the offers below, but we can also discuss of a topic that matches both our interests.
 
-Internships typically last 3 months, are remunerated, and include plane tickets from your country of origin to Japan.
+Internships typically last 3 months, are remunerated, and include plane tickets from your country of origin to France.
 
 ## Offers
 
-- <span class="label label-default">OPEN</span> Community detection in interaction streams
-- Structure-based models for machine learning
+There are no offers currently.
+<!--- <span class="label label-default">OPEN</span> Community detection in interaction streams-->
+<!--- Structure-based models for machine learning-->
 
 ## Past interns
-I have co-supervised 6 internships, at both graduate and undergraduate level.
+I have co-supervised 9 internships, at both graduate and undergraduate level.
+
+**Pimprenelle Parmentier**<br>
+*École Polytechnique, graduate, 04/2019 - 08/2019*<br>
+Multilayer stream graphs<br>
+Co-supervised with Benjamin Renoust and Jean-François Baffier
+
+**Tu Nguyen**<br>
+*, undergraduate, 06/2019 - 09/2019*<br>
+Clustering of interaction data<br>
+Co-supervised with Satoshi Sekine
+
+**Mirwaisse Djanbaz**<br>
+*Université Paris-Sud, graduate, 04/2019 - 09/2019*<br>
+Graph-based features for recommender systems<br>
+Co-supervised with Raphaël Fournier-S'niehotta and Satoshi Sekine
 
 **Anna Deza**<br>
 *University of Toronto, undergraduate, 06/2018 - 08/2018*<br>
