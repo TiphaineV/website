@@ -3,5 +3,10 @@
 .logo {
   border-radius: 100px;
   border: 1px solid white;
-  
+  height:100px;
+  width:100px;
+  margin: 20px;
+  -webkit-box-shadow: 11px 10px 55px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 11px 10px 55px -11px rgba(0,0,0,0.75);
+box-shadow: 11px 10px 55px -11px rgba(0,0,0,0.75);
 }
