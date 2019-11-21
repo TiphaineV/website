@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Scientific Involvment
+title: Teaching and Scientific Involvement
 permalink: /teaching/
 show_meta: true
 published: true

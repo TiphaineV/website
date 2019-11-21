@@ -72,23 +72,23 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
-  - title: <i class="iconside iconm-home"></i> Home
+  - title: <i class="iconside icon-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-user"></i> About
+  - title: <i class="iconside icon-woman"></i> About
     url: /about/
-  - title: <i class="iconside iconm-library_book"></i> Publications
+  - title: <i class="iconside icon-books"></i> Publications
     url: /publications/
-  - title: <i class="iconside iconm-job"></i> Internships
+  - title: <i class="iconside icon-cogs"></i> Internships
     url: /jobs/
   #- title: <i class="iconside iconm-quill"></i> Blog
     #url: /blog/
-  - title: <i class="iconside iconm-job"></i> Teaching and Scientific involvment
+  - title: <i class="iconside icon-sigma"></i> Teaching and Scientific involvement
     url: /teaching/
   #- title: <i class="fa fa-tags"></i> Tags
     #url: /tags/
   #- title: <i class="fa fa-archive"></i> Archive
     #url: /archive/
-  - title: <i class="iconside iconm-envelop"></i> Contact
+  - title: <i class="iconside icon-envelop"></i> Contact
     url: /contact/
 
 # Google Custom Search:
